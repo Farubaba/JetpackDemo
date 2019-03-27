@@ -6,7 +6,7 @@
 ### 开发技巧
 
 1. 创建矢量图标Vector: File > New > Vector Asset 
-2. 
+2. 资源冲突优先级 build variant > build type > product flavor > main source set > library dependencies
 
 
 ### Android Jetpack项目开发基本流程：
