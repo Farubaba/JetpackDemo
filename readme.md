@@ -36,4 +36,35 @@
 		    sourceCompatibility JavaVersion.VERSION_1_8
 		    targetCompatibility JavaVersion.VERSION_1_8
 		}
-4、
+4. 完善项目目录结构
+	1. [完善应用目录结构]所有folder都可以在AndroidStudio中查看new->Folder
+
+			app/src/main/aidl
+			app/src/main/jni
+			app/src/main/assets
+			app/src/main/rs
+	2. [完善资源目录结构]所有资源类型可以在AndroidStudio查看new->Android Resource Directory中查看。
+
+			res/animator/
+			res/anim/
+			res/color/
+			res/drawable/
+			res/font/
+			res/interpolator/
+			res/layout/
+			res/menu/
+			res/mipmap/
+			res/navigation/
+			res/raw/
+			res/transition/
+			res/values/
+			res/xml/
+			
+	3. 创建屏幕适配目录结构
+
+			//todo
+			
+5. abc
+
+[完善应用目录结构]:https://developer.android.com/studio/projects
+[完善资源目录结构]:https://developer.android.com/guide/topics/resources/providing-resources
